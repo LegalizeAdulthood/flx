@@ -1,1 +1,1 @@
-#define	IDENT	"v2.5"			/* program version number */
+#define	IDENT	"v2.6"			/* program version number */
