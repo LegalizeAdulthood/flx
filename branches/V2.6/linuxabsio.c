@@ -13,6 +13,7 @@
 #include <asm/ioctl.h>
 #include <linux/fs.h>
 #include <linux/hdreg.h>
+#include <string.h>
 
 #include "flx.h"
 #include "absio.h"
